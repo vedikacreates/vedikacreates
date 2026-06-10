@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi! I'm Vedika Bhingole.
 
-<!--
-**vedikacreates/vedikacreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student learning programming and building a strong foundation in Python.<br>
+This repository contains my practice work, notes, exercises, and learning experiments.
 
-Here are some ideas to get you started:
+* Currently learning Python, Data Science, and Artificial Intelligence.
+* Interested in solving real-world problems using technology.
+* Building projects to improve my programming and analytical skills.
+* Exploring Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub: https://github.com/vedikacreates<br>
+Email: vedikabhingole@gmail.com
+
